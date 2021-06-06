@@ -326,7 +326,7 @@ sections:
     background_color: secondary
 seo:
   title: Freela
-  description: The preview of the DIY theme
+  description: Truly Free Freelancing
   extra:
     - name: 'og:type'
       value: website
