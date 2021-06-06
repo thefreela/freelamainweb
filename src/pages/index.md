@@ -27,17 +27,16 @@ sections:
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Freela is a first of its kind Defi powered and self governing DAO
+          designed to act as a decentralised broad platform for freelancing
+          transactions. It provides a platform for both B2B (Business to
+          Business) and P2P (Peer to Peer) commission free transactions with its
+          intuitive user interface matching skilled freelancers for the job
+          postings worldwide. It brings in a unique innovative model with
+          professional mediation and thus ensuring a win win transaction between
+          the employer and employee, ensuring best quality work for the employer
+          and best remuneration for the employee.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
