@@ -22,7 +22,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - title: lorem-ipsum
+  - title: Freela
     subtitle: About Us
     features: []
     feature_padding_vert: medium
