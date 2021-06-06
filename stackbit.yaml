@@ -1049,8 +1049,6 @@ models:
           - no-repeat
         default: no-repeat
         description: Repeat the image to cover the whole area
-      - name: ''
-        type: image
   cta_section:
     type: object
     label: CTA section
