@@ -75,7 +75,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-      - title: The Big Title For the Feature
+      - title: The Big Title For the FeatureHe;;p
         content: |
           Hey
         actions:
