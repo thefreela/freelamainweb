@@ -25,8 +25,7 @@ sections:
   - title: Freela
     subtitle: About Us
     features:
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         content: >
           Freela is a first of its kind Defi powered and self governing DAO
           designed to act as a decentralised broad platform for freelancing
