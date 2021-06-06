@@ -22,6 +22,7 @@ sections:
     padding_bottom: large
     background_color: primary
     background_image: images/comp.jpg
+    background_image_opacity: 30
   - title: Freela
     subtitle: About Us
     features:
