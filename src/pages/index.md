@@ -36,7 +36,6 @@ sections:
           the employer and employee, ensuring best quality work for the employer
           and best remuneration for the employee.
         actions: []
-        image_alt: lorem-ipsum
         media_position: top
         media_width: fifty
         align: left
