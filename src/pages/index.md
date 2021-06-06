@@ -8,7 +8,7 @@ sections:
       The DeFi powered, commission-free, P2P self-governing DAO matches skilled
       freelancers to job postings worldwide.
     actions:
-      - label: Try Free
+      - label: Freela Deck
         url: /pricing
         style: primary
       - label: Learn More
