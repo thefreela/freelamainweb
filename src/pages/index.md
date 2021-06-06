@@ -325,7 +325,7 @@ sections:
     subtitle: lorem-ipsum
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: ' '
         subtitle: ' '
         title_align: left
         content_align: left
