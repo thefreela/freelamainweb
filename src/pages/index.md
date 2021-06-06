@@ -21,7 +21,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    background_image: images/V3Fa.gif
+    background_image: images/freela_ops.gif
     background_image_opacity: 20
   - title: Freela
     subtitle: About Us
