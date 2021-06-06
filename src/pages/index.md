@@ -326,7 +326,9 @@ sections:
     background_color: secondary
 seo:
   title: Freela
-  description: Truly Free Freelancing
+  description: |-
+    The DeFi powered, commission-free, P2P self-governing DAO
+    that matches skilled freelancers to job postings worldwide
   extra:
     - name: 'og:type'
       value: website
