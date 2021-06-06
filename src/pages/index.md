@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: WE ARE FREELA.
     subtitle: TRULY FREE FREELANCING
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      The DeFi powered, commission-free, P2P self-governing DAO matches skilled
+      freelancers to job postings worldwide.
     actions:
       - label: Try Free
         url: /pricing
