@@ -23,7 +23,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: About Us
     features: []
     feature_padding_vert: medium
     align: center
