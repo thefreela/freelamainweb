@@ -22,11 +22,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    video_embed_html: >-
-      <iframe width="936" height="500"
-      src="https://www.youtube.com/embed/r2b4E_Eytl4" title="YouTube video
-      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   - title: Freela
     subtitle: About Us
     features:
