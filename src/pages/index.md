@@ -11,7 +11,7 @@ sections:
       - label: Freela Deck
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: White Paper
         url: /features
         style: secondary
     image: images/classic/hero.png
