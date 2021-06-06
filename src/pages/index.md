@@ -26,23 +26,6 @@ sections:
     title: Features Section
     subtitle: Features Section Example
     features:
-      - title: The Big Title For the Feature
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/classic/feature-1.png
-        image_alt: Feature 1 placeholder image
-        media_position: right
-        media_width: fifty
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         content: >-
@@ -65,6 +48,23 @@ sections:
         media_width: fifty
         align: left
         type: feature
+      - title: The Big Title For the Feature
+        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
+          fringilla, fringilla.
+        actions:
+          - label: Learn More
+            url: /style-guide
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+        image: images/classic/feature-1.png
+        image_alt: Feature 1 placeholder image
+        media_position: right
+        media_width: fifty
       - title: The Big Title For the FeatureHe;;p
         content: |
           Hey
