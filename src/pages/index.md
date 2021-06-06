@@ -53,7 +53,7 @@ sections:
         image_align: center
     grid_cols: four
     grid_gap_horiz: small
-    grid_gap_vert: medium
+    grid_gap_vert: small
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
